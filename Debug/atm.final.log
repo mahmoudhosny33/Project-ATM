@@ -1,0 +1,3 @@
+﻿  main.cpp
+e:\c..disk\desktop\atm.final\atm.final\main.cpp(457): warning C4717: 'adminmenu': recursive on all control paths, function will cause runtime stack overflow
+  atm.final.vcxproj -> E:\c..Disk\Desktop\atm.final\Debug\atm.final.exe
